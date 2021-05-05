@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "418983515774",
+    "project_id": "brew1-cfb74",
+    "storage_bucket": "brew1-cfb74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418983515774:android:94cbe163ab1e402b68ea2f",
+        "android_client_info": {
+          "package_name": "com.example.crypto_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418983515774-frqcbb61dvta250r10vsigcr5i63ai8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtJSdmUqwv_d7nFmmqQQNdfWZkkqSCF6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418983515774-frqcbb61dvta250r10vsigcr5i63ai8j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "418983515774-jpfhh7agih0ujtpkn4d6lhvvthr81jgi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cryptoFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
